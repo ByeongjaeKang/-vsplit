@@ -1,2 +1,2 @@
 # -vsplit
-Use your tablet as your laptop's second screen.
+Use your tablet as your second monitor of your laptop.
